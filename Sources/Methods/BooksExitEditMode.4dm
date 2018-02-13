@@ -21,6 +21,3 @@ Else
 End if 
 
 <>booksEditMode:=False:C215
-BooksReOrder 
-BookGotoHighLighted 
-BooksSetInterface 
